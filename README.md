@@ -24,22 +24,23 @@ Hi, I'm José Sandoval!
 
 <pre>
 💻 I am a self-taught Full Stack Developer with a passion for solving problems 
-  and continuously learning new skills.
+   and continuously learning new skills.
 📚 I am finishing my studies in Informatics Management at the 
-  National University of Salta 
-  and pursuing a second degree in Software Development 
-  at the Instituto de Formación Superior "Dr. Alfredo Loutaif" N°6023.
+   National University of Salta 
+   and starting the 3rd year of the Systems Analysis and Software Development degree
+   at the Instituto de Formación Superior "Dr. Alfredo Loutaif" N°6023.
 📝 I have a strong interest in software development, data science, 
-  and artificial intelligence.
+   and artificial intelligence.
 🔭 Currently working on projects involving software development 
-  and exploring opportunities to expand my knowledge in technology.
+   and exploring opportunities to expand my knowledge in technology.
 🌱 Actively learning about object-oriented programming, 
-  software architecture, and problem-solving strategies.
+   software architecture, and problem-solving strategies.
 🌟 Main languages: C, Java, C#, Python, JavaScript
 ♟️ In my free time, I enjoy playing chess, a game that sharpens 
-  my problem-solving and strategic thinking skills.
+   my problem-solving and strategic thinking skills.
 🚩 I am currently open to remote job opportunities, 
-  including internships or roles in software development or related fields.
+   including internships or roles in software development or related fields.
+🌐 Portfolio: https://portfolio-jdfesa.vercel.app/
 </pre>
 
 
