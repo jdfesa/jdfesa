@@ -40,6 +40,8 @@ Hi, I'm José Sandoval!
    my problem-solving and strategic thinking skills.
 🚩 I am currently open to remote job opportunities, 
    including internships or roles in software development or related fields.
+
+	
 🌐 Portfolio: <a href="https://portfolio-jdfesa.vercel.app/">https://portfolio-jdfesa.vercel.app/</a>
 </pre>
 
