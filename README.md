@@ -42,7 +42,7 @@ Hi, I'm José Sandoval!
    including internships or roles in software development or related fields.
 
 	
-🌐 Portfolio: <a href="https://portfolio-jdsandoval.vercel.app/">https://portfolio-jdsandoval.vercel.app/</a>
+🌐 Portfolio: <a href="https://jdsandoval.vercel.app/">https://portfolio-jdsandoval.vercel.app/</a>
 </pre>
 
 
