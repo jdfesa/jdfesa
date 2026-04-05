@@ -11,9 +11,3 @@ My interests are:
 
 I have a personal website, where you can find out more about me and my work: [jdsandoval.vercel.app](https://jdsandoval.vercel.app/). I am currently open to remote job opportunities, including internships or roles in software development.
 
-<a href="https://github.com/jdfesa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdfesa&theme=ayu-mirage&layout=compact" />
-</a>
-<a href="https://github.com/jdfesa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jdfesa&show_icons=true&theme=ayu-mirage&line_height=27" />
-</a>
